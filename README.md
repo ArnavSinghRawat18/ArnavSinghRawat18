@@ -6,65 +6,58 @@
 📧 [rawatarnav180505@gmail.com](mailto:rawatarnav180505@gmail.com) | 📞 +91-9343612820  
 
 🔗 **Connect with me:**  
-[LinkedIn](https://www.linkedin.com/in/arnav-singh-rawat-993725275/) | [GitHub](https://github.com/ArnavSinghRawat18) | [LeetCode](https://leetcode.com/u/rawatarnav180505/) | [GFG](https://www.geeksforgeeks.org/user/rawatarna61ez/) | [Portfolio](https://686940481f7b30000842a400--arnavsinghrawatportfolio.netlify.app/)  
+[LinkedIn](https://www.linkedin.com/in/arnav-singh-rawat-993725275/) | [GitHub](https://github.com/ArnavSinghRawat18) | [LeetCode](https://leetcode.com/u/rawatarnav180505/) | [GFG](https://www.geeksforgeeks.org/user/rawatarna61ez/) | [Portfolio](https://6869486a486f34000811a985--arnavsinghrawatportfolio.netlify.app/)  
 
 ---
 
-## 🎓 Education
-- **Lakshmi Narain College of Technology & Science (LNCTS), Bhopal**  
-  B.Tech in Computer Science and Engineering (2023 – 2027)  
-- **High School**  
-  - 10th CBSE Board – 90%  
-  - 12th (PCM) CBSE Board – 82%  
+## 🚀 About Me  
+I'm a **Computer Science Engineering student** passionate about **MERN Stack Development** and **Problem Solving (DSA)**.  
+I enjoy building **scalable web applications**, learning new technologies, and contributing to open-source projects.  
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Skills  
 
-- **Programming Languages:** C, C++, JavaScript  
-- **Full Stack Development (MERN):** MongoDB | Express.js | React.js | Node.js  
-- **Frontend:** HTML, CSS, TailwindCSS, SASS, Responsive Design, DOM Manipulation  
-- **Core CS:** Data Structures & Algorithms (DSA), Object-Oriented Programming (OOP)  
-- **Tools & Platforms:** Git, GitHub, VS Code, Netlify, EmailJS, REST APIs  
-- **Others:** Video Editing (Adobe Premiere Pro, CapCut), Public Speaking, Team Collaboration  
-
----
-
-## 🚀 Projects  
-
-### 🧑‍💻 [Portfolio Website](https://686940481f7b30000842a400--arnavsinghrawatportfolio.netlify.app/) • [GitHub Repo](https://github.com/ArnavSinghRawat18/Portfolio-Website.git)  
-**ReactJS, CSS, API Integration** | 2025  
-- Modern, responsive portfolio with **custom CSS3 animations** and **React components**.  
-- Features: live weather API, motivational quotes, real-time clock, **SPA routing** with React Router.  
-- Includes **dark/light mode toggle**, EmailJS contact form, and mobile-first design.  
-
-### 🎮 [2048 Game Clone](https://2048arnavsinghrawat.netlify.app/) • [GitHub Repo](https://github.com/ArnavSinghRawat18/2048-Game)  
-**HTML, CSS, JavaScript** | 2025  
-- Fully responsive 2048 game with **dynamic tile animations** and **score tracking**.  
-- Mobile-friendly with swipe gesture support and modular JS architecture.  
-- Added **dark/light mode toggle** for better UI/UX.  
-
-### 🌐 [Health Sathi – MERN Stack App] *(In Progress)*  
-**MongoDB, Express.js, React.js, Node.js, TailwindCSS** | 2025  
-- A **medical record management system** for uploading and tracking health records.  
-- Backend: **Node.js + Express.js APIs** with MongoDB database.  
-- Frontend: React with TailwindCSS, authentication, and user dashboards.  
+- **Languages:** C, C++, JavaScript  
+- **Frontend:** HTML, CSS, TailwindCSS, SASS, React.js  
+- **Backend:** Node.js, Express.js  
+- **Database:** MongoDB  
+- **Core CS:** Data Structures & Algorithms (DSA), OOP  
+- **Tools:** Git, GitHub, VS Code, Netlify, REST APIs  
 
 ---
 
-## 🏆 Certifications  
+## 📂 Projects  
 
-- 🥇 **NEC '24 Finalist** – Basic Track, *E-Cell IIT Bombay* | Credential ID: `ecell2021`  
+### 🧑‍💻 [Portfolio Website](https://6869486a486f34000811a985--arnavsinghrawatportfolio.netlify.app/) • [GitHub](https://github.com/ArnavSinghRawat18/Portfolio-Website.git)  
+- Responsive React portfolio with **dark/light mode**, **live weather API**, **daily quotes**, and **real-time clock**.  
+
+### 🎮 [2048 Game Clone](https://2048arnavsinghrawat.netlify.app/) • [GitHub](https://github.com/ArnavSinghRawat18/2048-Game)  
+- A fully functional **2048 game** with animations, mobile swipe gestures, and dark/light mode.  
+
+### 🌐 Health Sathi *(In Progress)*  
+- A **MERN stack app** for managing medical records with authentication and dashboards.  
+
+---
+
+## 🏆 Achievements  
+
+- 🥇 **NEC '24 Finalist** – E-Cell IIT Bombay  
 - 📜 **JavaScript Essentials** – Cisco Networking Academy  
-- 📚 **Data Structures & Algorithms** – Coursera  
-- 🧠 **National Science Olympiad** – Participant (2025)  
+- 📚 **DSA Course** – Coursera  
+- 🧠 **National Science Olympiad** – Participant  
 
 ---
 
-## 🧩 Extracurricular Activities  
+## 📊 GitHub Stats  
 
-- 🥋 **Karate:** Blue Belt | District Bronze Medalist | State-Level Player  
-- 🏏 **Sports:** Interschool Cricket Team | College-Level Badminton Player  
-- 🗣️ **Public Speaking:** Debate Competition Winner | Excellent Communicator  
+![Arnav's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArnavSinghRawat18&show_icons=true&theme=tokyonight)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArnavSinghRawat18&layout=compact&theme=tokyonight)  
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ArnavSinghRawat18&theme=tokyonight)  
 
 ---
+
+## ✨ Fun Fact  
+When I’m not coding, you’ll find me 🥋 practicing Karate, 🏏 playing Cricket, or 🎤 engaging in debates!  
